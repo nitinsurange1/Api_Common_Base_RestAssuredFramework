@@ -1,1 +1,2 @@
-# people_Api_and_Web_Common_Framework
+# Appium-plus-restassured
+Framework development with both mobile automation and backend automation.
